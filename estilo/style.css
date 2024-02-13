@@ -6,10 +6,17 @@ body {
     background-color: gray;
 
 }
+img.lado{
+     float: right; width: 85px;
 
+}
+img.baixo{
+    float: right; width: 120px; 
+
+}
 main{
     background-color: red;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(rgb(0, 0, 0));
